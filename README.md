@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-debargho__basak-12100E?style=flat&logo=medium&logoColor=white&link=)]() -->
 
-Hi, I'm **Debargho Basak**. I _read_, _write and  _build_ stuff for the internet.
+Hi, I'm **Debargho Basak**. I _read_, _write_ and  like to .
 
 <a href='https://undraw.co/'> 
     <img align='right' alt='programmer' width=60% src='./undraw_web_developer_p3e5.svg' />
@@ -31,7 +31,7 @@ Hi, I'm **Debargho Basak**. I _read_, _write and  _build_ stuff for the internet
 - 🌱 I’m currently learning Data Analysis and Visualisation.
 - :soccer: Ask me why Jürgen Norbert Klopp is the best manager of this era.
 - 💼 I'm pursuing a Bachelor's Degree in Engineering.
-- 📫 How to reach me: I am always available at [upamanyudas16@gmail.com](mailto:upamanyudas16@gmail.com). Or you could DM me [@tintin_das](https://twitter.com/tintin_das/). I will get back to you as soon as possible.
+- 📫 How to reach me: I am always available at [debarggho.basak1999@gmail.com](mailto:debarggho.basak1999@gmail.com]). Or you could DM me [@debarghobasak1999](https://www.instagram.com/debarghobasak1999/). I will get back to you as soon as possible.
 - :octocat: Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
 
 
