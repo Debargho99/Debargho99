@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Debargho_Basak-2867b2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debargho-basak-477b43150/)](https://www.linkedin.com/in/debargho-basak-477b43150/)
-[![Instagram Badge](https://img.shields.io/badge/-debarghobasak1999-1DA1F2?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/debarghobasak1999/)](https://www.instagram.com/debarghobasak1999/)
+[![Instagram Badge](https://img.shields.io/badge/-debarghobasak1999-833AB4?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/debarghobasak1999/)](https://www.instagram.com/debarghobasak1999/)
 [![Gmail Badge](https://img.shields.io/badge/-debarghobasak1999-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:debargho.basak1999@gmail.com)](mailto:debargho.basak1999@gmail.com)
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-debargho__basak-12100E?style=flat&logo=medium&logoColor=white&link=)]() -->
