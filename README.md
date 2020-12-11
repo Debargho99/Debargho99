@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-debargho__basak-12100E?style=flat&logo=medium&logoColor=white&link=)]() -->
 
-Hi, I'm **Debargho Basak**. I   .
+Hi, I'm **Debargho Basak**. I  am an odinary dude who likes to _read_, _play video games_ and _code_.
 
 <a href='https://undraw.co/'> 
     <img align='right' alt='programmer' width=60% src='./undraw_code_thinking_1jeh (2).svg'/>
