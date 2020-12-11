@@ -31,11 +31,11 @@ Hi, I'm **Debargho Basak**. I _read_, _write_ and  like to .
 - 🌱 I’m currently learning Data Analysis and Visualisation.
 - :soccer: Ask me why Jürgen Norbert Klopp is the best manager of this era.
 - 💼 I'm pursuing a Bachelor's Degree in Engineering.
-- 📫 How to reach me: I am always available at [debarggho.basak1999@gmail.com](mailto:debarggho.basak1999@gmail.com]). Or you could DM me [@debarghobasak1999](https://www.instagram.com/debarghobasak1999/). I will get back to you as soon as possible.
-- :octocat: Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
+- 📫 How to reach me: I am always available at [debargho.basak1999@gmail.com](mailto:debarggho.basak1999@gmail.com]). Or you could DM me [@debarghobasak1999](https://www.instagram.com/debarghobasak1999/). I will get back to you as soon as possible.
+- :octocat: Fun Fact: Chandler's middle name is Muriel. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
 
 
 ### Languages
 
-| <img alt='c++' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png'/> | <img alt='mongodb' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png'/> | <img alt='python' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/> |
+| <img alt='c++' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png'/> | <img alt='mongodb' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png'/> | <img alt='python' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/> |<img alt='cassandra' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/8b79365c693905ff9adad384ab1534b5ab041cb9/topics/cassandra/cassandra.png'/> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
