@@ -27,7 +27,7 @@ Hi, I'm **Debargho Basak**. I   .
 <a href='https://undraw.co/'> 
     <img align='right' alt='programmer' width=60% src='./undraw_code_thinking_1jeh (2).svg'/>
 </a>
-1   
+
 - 🌱 I’m currently learning Data Analysis and Visualisation.
 - :soccer: YNWA. <img src="https://media.giphy.com/media/W01pzXli5X0OQmkQcN/giphy.gif" width="10%" height="5%" align = 'center'/>
 - 💼 I'm pursuing a Bachelor's Degree in Engineering.
