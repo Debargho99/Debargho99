@@ -31,7 +31,7 @@ Hi, I'm **Debargho Basak**. I _read_, _write_ and  like to .
 - 🌱 I’m currently learning Data Analysis and Visualisation.
 - :soccer: Ask me why Jürgen Norbert Klopp is the best manager of this era.
 - 💼 I'm pursuing a Bachelor's Degree in Engineering.
-- 📫 How to reach me: I am always available at [debargho.basak1999@gmail.com](mailto:debarggho.basak1999@gmail.com]). Or you could DM me [@debarghobasak1999](https://www.instagram.com/debarghobasak1999/). I will get back to you as soon as possible.
+- 📫 How to reach me: I am always available at [debargho.basak1999@gmail.com](mailto:debargho.basak1999@gmail.com]). Or you could DM me [@debarghobasak1999](https://www.instagram.com/debarghobasak1999/). I will get back to you as soon as possible.
 - :octocat: Fun Fact: Chandler's middle name is Muriel. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
 
 
@@ -44,3 +44,10 @@ Hi, I'm **Debargho Basak**. I _read_, _write_ and  like to .
 |<img alt='cassandra' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/8b79365c693905ff9adad384ab1534b5ab041cb9/topics/cassandra/cassandra.png'/> |<img alt='mongodb' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png'/>| <img alt='pyspark' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pyspark/pyspark.png'/>  |   |
 |---|---|---|---|
 |   |   | <img alt='git' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'/>| <img alt='terminal/bash' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png'/>|
+
+
+### Vibing To
+
+## [![Spotify](https://novatorem-sooty-five.vercel.app/api/spotify)](https://open.spotify.com/user/upamanyu.das.work)
+
+[Big thanks to Andrew Novacs for dynamic Spotify Song Card](https://github.com/novatorem)
