@@ -29,7 +29,7 @@ Hi, I'm **Debargho Basak**. I _read_, _write_ and  like to .
 </a>
 
 - 🌱 I’m currently learning Data Analysis and Visualisation.
-- :soccer: YNWA. <img src="https://media.giphy.com/media/W01pzXli5X0OQmkQcN/giphy.gif" width="10%" height="5%" align = 'center'/>
+- :soccer: YNWA. <img src="https://media.giphy.com/media/W01pzXli5X0OQmkQcN/giphy.gif" width="10%" height="5%" align = 'center'/> :bird:
 - 💼 I'm pursuing a Bachelor's Degree in Engineering.
 - 📫 How to reach me: I am always available at [debargho.basak1999@gmail.com](mailto:debargho.basak1999@gmail.com]). Or you could DM me [@debarghobasak1999](https://www.instagram.com/debarghobasak1999/). I will get back to you as soon as possible.
 - :octocat: Fun Fact: Chandler's middle name is Muriel. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
