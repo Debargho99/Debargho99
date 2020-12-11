@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Hi, I'm **Debargho Basak**. I _read_, _write_ and  like to .
 
 <a href='https://undraw.co/'> 
-    <img align='right' alt='programmer' width=60% src='./undraw_programming_2svr.svg'/>
+    <img align='right' alt='programmer' width=60% src='./undraw_programming_2svr.svg' />
 </a>
 
 - 🌱 I’m currently learning Data Analysis and Visualisation.
