@@ -41,6 +41,6 @@ Hi, I'm **Debargho Basak**. I _read_, _write_ and  like to .
 
 
 ### Tools and Frameworks
-|<img alt='cassandra' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/8b79365c693905ff9adad384ab1534b5ab041cb9/topics/cassandra/cassandra.png'/> |<img alt='mongodb' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png'/>| <img alt='pig' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pig/pig.png'/>  |   |
+|<img alt='cassandra' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/8b79365c693905ff9adad384ab1534b5ab041cb9/topics/cassandra/cassandra.png'/> |<img alt='mongodb' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png'/>| <img alt='pyspark' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pyspark/pyspark.png'/>  |   |
 |---|---|---|---|
 |   |   | <img alt='git' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'/>| <img alt='terminal/bash' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png'/>|
