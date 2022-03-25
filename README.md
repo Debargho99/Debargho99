@@ -29,10 +29,10 @@ Hi, I'm **Debargho Basak**. I  am an ordinary dude who likes to _read_, _play vi
     <img align='right' alt='programmer' width=60% src='./undraw_code_thinking_1jeh (2).svg'/>
 </a>
 
-- 🌱 I’m currently learning Advanced Deep Learning techniques, Machine Learning, Natural Language Processing,Business Analytics.
+- 🌱 I’m currently learning Advanced Deep Learning techniques, Machine Learning, Natural Language Processing and Business Analytics.
 - :soccer: YNWA. <img src="https://media.giphy.com/media/W01pzXli5X0OQmkQcN/giphy.gif" width="10%" height="5%" align = 'center'/>
 - 💼 I'm pursuing a Master's Degree in Informatics.
-- 👯 I’m looking to collaborate on any Data Science/Big Data/Unsupervised Deep Learning/Unsupervised Machine Learning/NLP related projects.
+- 👯 I’m looking to collaborate on any NLP/Unsupervised Deep Learning/Unsupervised Machine Learning related projects.
 - 💬 Ask me about anything :sweat_smile:.
 - 📫 How to reach me: I am always available at [debargho.basak1999@gmail.com](mailto:debargho.basak1999@gmail.com]). Or you could DM me [@debarghobasak1999](https://www.instagram.com/debarghobasak1999/). I will get back to you as soon as possible.
 - :octocat: Fun Fact: It is canon that Doomguy is a descendant of B.J. Blazkowicz :rage3:. ([Source](https://doom.fandom.com/wiki/B.J._Blazkowicz))
