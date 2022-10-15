@@ -49,9 +49,3 @@ Hi, I'm **Debargho Basak**. I  am an ordinary dude who likes to _read_, _play vi
 |---|---|---|---|---|
 |<img alt='Amazon Redshift' width='40px' height='32px' src='https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg'/>|<img alt='Keras' width='45px' height='32px' src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg'/> | <img alt='TensorFlow' width='55px' height='32px' src='https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg'/> |<img alt='git' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'/>| <img alt='terminal/bash' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png'/>|
 
-
-### Currently Vibing To
-
-## [![Spotify](https://novatorem-1-six.vercel.app/api/spotify)](https://open.spotify.com/user/31jzuvp444ebtr4rwvxlb5z4jf34)
-
-[Big thanks to Andrew Novacs for dynamic Spotify Song Card](https://github.com/novatorem)
