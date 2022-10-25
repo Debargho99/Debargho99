@@ -29,7 +29,7 @@ Hi, I'm **Debargho Basak**. I  am an ordinary dude who likes to _read_, _play vi
     <img align='right' alt='programmer' width=60% src='./undraw_code_thinking_1jeh (2).svg'/>
 </a>
 
-- 🌱 I’m currently learning Advanced Deep Learning techniques, Machine Learning, Natural Language Processing and Business Analytics.
+- 🌱 I’m currently learning Advanced Deep Learning techniques, Machine Learning, Computer Vision and Natural Language Processing.
 - :soccer: YNWA. <img src="https://media.giphy.com/media/W01pzXli5X0OQmkQcN/giphy.gif" width="10%" height="5%" align = 'center'/>
 - 💼 I'm pursuing a Master's Degree in Informatics.
 - 👯 I’m looking to collaborate on any NLP/Unsupervised Deep Learning/Unsupervised Machine Learning related projects.
