@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Hi, I'm **Debargho Basak**. I  am an ordinary dude who likes to _read_, _play video games_ and _code_.
 
 <a href='https://undraw.co/'> 
-    <img align='right' alt='programmer' width=60% src='./undraw_code_thinking_1jeh (2).svg'/>
+    <img align='left' alt='programmer' width=60% src='./undraw_code_thinking_1jeh (2).svg'/>
 </a>
 
 - 🌱 I’m currently learning Advanced Deep Learning techniques, Machine Learning, Computer Vision and Natural Language Processing.
